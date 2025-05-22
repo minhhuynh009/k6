@@ -64,16 +64,7 @@ export default function () {
   }
 }
 
-// export function handleSummary(data) {
-//   const summary = `\n================ TIMEOUT EXPECTATION ================\n` +
-//     `connection ≤ ${EXP.connection} | response ≤ ${EXP.response}\n` +
-//     `breached connection timeout : ${connBreaches}\n` +
-//     `breached response timeout  : ${respBreaches}\n`;
 
-//   return {
-//     stdout: textSummary(data, { indent: '  ', enableColors: true }) + summary,
-//   };
-// }
 
 export function handleSummary(data) {
     console.log('✅ handleSummary is running');
