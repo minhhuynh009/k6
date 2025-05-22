@@ -6,6 +6,6 @@
     "rps": 200,
     
     "endpoints": [
-      ""
+      "abc.com/login"
     ]
   }
