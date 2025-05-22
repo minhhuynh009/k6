@@ -6,6 +6,6 @@
     "rps": 200,
     
     "endpoints": [
-      "https://dev-integration-apigee-epa.address.gov.sa/transform/lookup/districts?CityId=828&language=E"
+      ""
     ]
   }
